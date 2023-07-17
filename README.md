@@ -1,6 +1,6 @@
 # 1. 单指标异常检测
 
-| #                      | Papers                                                       | Tags                                                      | Links                                                        |
+|                        | Papers                                                       | Tags                                                      | Links                                                        |
 | ---------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
 | <ul><li>[ ] </li></ul> | Cross-dataset Time Series Anomaly Detection for Cloud Systems | `ATC2019`                                                 | [Paper](_Papers/AnomalyDetection/Cross-dataset%20Time%20Series%20Anomaly%20Detection%20for%20Cloud%20Systems.pdf) |
 | <ul><li>[ ] </li></ul> | Time-Series Anomaly Detection Service at Microsoft           | `KDD 2019`,`Spectral Residual`                            | [Paper](_Papers/AnomalyDetection/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf) |
@@ -11,7 +11,7 @@
 
 # 2. 多指标异常检测
 
-| #                      | Papers                                                       | Tags                                                         | Links                                                        |
+|                        | Papers                                                       | Tags                                                         | Links                                                        |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <ul><li>[ ] </li></ul> | Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network | `KDD 2019`,`Neural networks`,`Bayesian network models`       | [Paper](_Papers/AnomalyDetection/Robust%20Anomaly%20Detection%20for%20Multivariate%20Time%20Series%20through%20Stochastic%20Recurrent%20Neural%20Network.pdf) |
 | <ul><li>[ ] </li></ul> | Detecting Outlier Machine Instances through Gaussian Mixture Variational Autoencoder with One Dimensional CNN | `TC 2021`,` 1D-CNN`,`GMVAE`                                  | [Paper](_Papers/AnomalyDetection/Detecting%20Outlier%20Machine%20Instances%20through%20Gaussian%20Mixture%20Variational%20Autoencoder%20with%20One%20Dimensional%20CNN.pdf) |
@@ -22,19 +22,17 @@
 
 # 3.日志分析与异常检测
 
-LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs, IJCAI 2018
-
-A Survey on Automated Log Analysis for Reliability Engineering, CSUR 2021
-
-Log-based Anomaly Detection Without Log Parsing, ASE 2021
-
-MoniLog: An Automated Log-Based Anomaly Detection System for Cloud Computing Infrastructures, ICDE 2021
-
-Log-based Anomaly Detection with Deep Learning: How Far Are We?, ICSE 2022
+|                        | Papers                                                       | Tags                                                         | Links                                                        |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <ul><li>[ ] </li></ul> | LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs | ` IJCAI 2018`                                                | [Paper](_Papers/AnomalyDetection/LogAnomaly-%20Unsupervised%20Detection%20of%20Sequential%20and%20Quantitative%20Anomalies%20in%20Unstructured%20Logs.pdf) |
+| <ul><li>[ ] </li></ul> | A Survey on Automated Log Analysis for Reliability Engineering | `CSUR 2021`,`log analysis`,`log compression`,`log parsing`,`log mining` | [Paper](_Papers/AnomalyDetection/A%20Survey%20on%20Automated%20Log%20Analysis%20for%20Reliability%20Engineering.pdf) |
+| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection Without Log Parsing              | `ASE 2021`,`Log Analysis`,`Log Parsing`,`Deep Learning`      | [Paper](_Papers/AnomalyDetection/Log-based%20Anomaly%20Detection%20Without%20Log%20Parsing.pdf) |
+| <ul><li>[ ] </li></ul> | MoniLog: An Automated Log-Based Anomaly Detection System for Cloud Computing Infrastructures | `ICDE 2021`, `Log Analysis`,`Log Instability`,` Log Parsing` | [Paper](_Papers/AnomalyDetection/MoniLog-%20An%20Automated%20Log-Based%20Anomaly%20Detection%20System%20for%20Cloud%20Computing%20Infrastructures.pdf) |
+| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection with Deep Learning: How Far Are We? | `ICSE 2022`,`Log Analysis`,`Log Parsing`,`Deep Learning`     | [Paper](_Papers/AnomalyDetection/Log-based%20Anomaly%20Detection%20with%20Deep%20Learning-%20How%20Far%20Are%20We.pdf) |
 
 
 
-### 调用链分析与异常检测
+# 4.调用链分析与异常检测
 
 Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs, ESES/FSE 2019
 
