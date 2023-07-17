@@ -1,27 +1,26 @@
 # 1. 单指标异常检测
 
-| #                      | Papers                                                       | Tags                                                       | Links                                                        |
-| ---------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| <ul><li>[ ] </li></ul> | Cross-dataset Time Series Anomaly Detection for Cloud Systems | `ATC2019`                                                  | [Paper](_Papers/AnomalyDetection/Cross-dataset%20Time%20Series%20Anomaly%20Detection%20for%20Cloud%20Systems.pdf) |
-| 2                      | Time-Series Anomaly Detection Service at Microsoft           | `KDD 2019`, `time-series`, `Spectral Residual`             | [Paper](_Papers/AnomalyDetection/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf) |
-| 3                      | Robust KPI Anomaly Detection for Large-Scale Software Services with Partial Labels | `ISSRE 2021`, `PU learning`, `active learning`             | [Paper](_Papers/AnomalyDetection/Robust%20KPI%20Anomaly%20Detection%20for%20Large-Scale%20Software%20Services%20with%20Partial%20Labels.pdf) |
-| 4                      | Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services | `JSAC 2022`, `transfer learning`, `time series clustering` | [Paper](_Papers/AnomalyDetection/Efficient%20KPI%20Anomaly%20Detection%20Through%20Transfer%20Learning%20for%20Large-Scale%20Web%20Services.pdf) |
+| #                      | Papers                                                       | Tags                                                      | Links                                                        |
+| ---------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
+| <ul><li>[ ] </li></ul> | Cross-dataset Time Series Anomaly Detection for Cloud Systems | `ATC2019`                                                 | [Paper](_Papers/AnomalyDetection/Cross-dataset%20Time%20Series%20Anomaly%20Detection%20for%20Cloud%20Systems.pdf) |
+| <ul><li>[ ] </li></ul> | Time-Series Anomaly Detection Service at Microsoft           | `KDD 2019`,`Spectral Residual`                            | [Paper](_Papers/AnomalyDetection/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf) |
+| <ul><li>[ ] </li></ul> | Robust KPI Anomaly Detection for Large-Scale Software Services with Partial Labels | `ISSRE 2021`, `PU learning`, `active learning`            | [Paper](_Papers/AnomalyDetection/Robust%20KPI%20Anomaly%20Detection%20for%20Large-Scale%20Software%20Services%20with%20Partial%20Labels.pdf) |
+| <ul><li>[ ] </li></ul> | Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services | `JSAC 2022`, `transfer learning`,`time series clustering` | [Paper](_Papers/AnomalyDetection/Efficient%20KPI%20Anomaly%20Detection%20Through%20Transfer%20Learning%20for%20Large-Scale%20Web%20Services.pdf) |
 
 
 
 # 2. 多指标异常检测
 
-Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network, KDD 2019
-
-Detecting Outlier Machine Instances through Gaussian Mixture Variational Autoencoder with One Dimensional CNN, TC 2021
-
-Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding, KDD 2021
-
-Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems, ATC 2021
-
+| #                      | Papers                                                       | Tags                                                         | Links                                                        |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <ul><li>[ ] </li></ul> | Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network | `KDD 2019`,`Neural networks`,`Bayesian network models`       | [Paper](_Papers/AnomalyDetection/Robust%20Anomaly%20Detection%20for%20Multivariate%20Time%20Series%20through%20Stochastic%20Recurrent%20Neural%20Network.pdf) |
+| <ul><li>[ ] </li></ul> | Detecting Outlier Machine Instances through Gaussian Mixture Variational Autoencoder with One Dimensional CNN | `TC 2021`,` 1D-CNN`,`GMVAE`                                  | [Paper](_Papers/AnomalyDetection/Detecting%20Outlier%20Machine%20Instances%20through%20Gaussian%20Mixture%20Variational%20Autoencoder%20with%20One%20Dimensional%20CNN.pdf) |
+| <ul><li>[ ] </li></ul> | Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding | `KDD 2021`,`Neural networks`,`Bayesian network models`,`Latent variable models` | [Paper](_Papers/AnomalyDetection/Multivariate%20Time%20Series%20Anomaly%20Detection%20and%20Interpretation%20using%20Hierarchical%20Inter-Metric%20and%20Temporal%20Embedding.pdf) |
+| <ul><li>[ ] </li></ul> | Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems | `ATC 2021`, `transfer learning`,`time series clustering`     | [Paper](_Papers/AnomalyDetection/Jump-Starting%20Multivariate%20Time%20Series%20Anomaly%20Detection%20for%20Online%20Service%20Systems.pdf) |
 
 
-### 日志分析与异常检测
+
+# 3.日志分析与异常检测
 
 LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs, IJCAI 2018
 
