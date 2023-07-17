@@ -34,15 +34,13 @@
 
 # 4. 调用链分析与异常检测
 
-Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs, ESES/FSE 2019
-
-Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks, ISSRE 2020
-
-Practical Root Cause Localization for Microservice Systems via Trace Analysis, IWQoS 2021
-
-*[X] TraceCRL: Contrastive Representation Learning for Microservice Trace Analysis, FSE 2022*
-
-Unsupervised Anomaly Detection on Microservice Traces through Graph VAE, WWW 2023
+|                        | Papers                                                       | Tags            | Links                                                        |
+| ---------------------- | ------------------------------------------------------------ | --------------- | ------------------------------------------------------------ |
+| <ul><li>[ ] </li></ul> | Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs | `ESES/FSE 2019` | [Paper](_Papers/Trace/Latent%20error%20prediction%20and%20fault%20localization%20for%20microservice%20applications%20by%20learning%20from%20system%20trace%20logs.pdf) |
+| <ul><li>[ ] </li></ul> | Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks | `ISSRE 2020`    | [Paper](_Papers/Trace/Unsupervised%20Detection%20of%20Microservice%20Trace%20Anomalies%20through%20Service-Level%20Deep%20Bayesian%20Networks.pdf) |
+| <ul><li>[ ] </li></ul> | Practical Root Cause Localization for Microservice Systems via Trace Analysis | `IWQoS 2021`    | [Paper](_Papers/Trace/Practical%20Root%20Cause%20Localization%20for%20Microservice%20Systems%20via%20Trace%20Analysis.pdf) |
+| <ul><li>[ ] </li></ul> | TraceCRL: Contrastive Representation Learning for Microservice Trace Analysis | `FSE 2022`      |                                                              |
+| <ul><li>[ ] </li></ul> | Unsupervised Anomaly Detection on Microservice Traces through Graph VAE | `WWW 2023`      | [Paper](_Papers/Trace/Unsupervised%20Anomaly%20Detection%20on%20Microservice%20Traces%20through%20Graph%20VAE.pdf) |
 
 
 
