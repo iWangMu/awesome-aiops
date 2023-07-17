@@ -22,13 +22,13 @@
 
 # 3. 日志分析与异常检测
 
-|                        | Papers                                                       | Tags                                                         | Links                                                        |
-| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <ul><li>[ ] </li></ul> | LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs | `IJCAI 2018`                                                 | [Paper](_Papers/LogAnalysis/LogAnomaly-%20Unsupervised%20Detection%20of%20Sequential%20and%20Quantitative%20Anomalies%20in%20Unstructured%20Logs.pdf) |
-| <ul><li>[ ] </li></ul> | A Survey on Automated Log Analysis for Reliability Engineering | `CSUR 2021`,`log analysis`,`log compression`,`log parsing`,`log mining` | [Paper](_Papers/LogAnalysis/A%20Survey%20on%20Automated%20Log%20Analysis%20for%20Reliability%20Engineering.pdf) |
-| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection Without Log Parsing              | `ASE 2021`,`Log Analysis`,`Log Parsing`,`Deep Learning`      | [Paper](_Papers/LogAnalysis/Log-based%20Anomaly%20Detection%20Without%20Log%20Parsing.pdf) |
-| <ul><li>[ ] </li></ul> | MoniLog: An Automated Log-Based Anomaly Detection System for Cloud Computing Infrastructures | `ICDE 2021`, `Log Analysis`,`Log Instability`,` Log Parsing` | [Paper](_Papers/LogAnalysis/MoniLog-%20An%20Automated%20Log-Based%20Anomaly%20Detection%20System%20for%20Cloud%20Computing%20Infrastructures.pdf) |
-| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection with Deep Learning: How Far Are We? | `ICSE 2022`,`Log Analysis`,`Log Parsing`,`Deep Learning`     | [Paper](_Papers/LogAnalysis/Log-based%20Anomaly%20Detection%20with%20Deep%20Learning-%20How%20Far%20Are%20We.pdf) |
+|                        | Papers                                                       | Tags                                                     | Links                                                        |
+| ---------------------- | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ |
+| <ul><li>[ ] </li></ul> | LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs | `IJCAI 2018`                                             | [Paper](_Papers/LogAnalysis/LogAnomaly-%20Unsupervised%20Detection%20of%20Sequential%20and%20Quantitative%20Anomalies%20in%20Unstructured%20Logs.pdf) |
+| <ul><li>[ ] </li></ul> | A Survey on Automated Log Analysis for Reliability Engineering | `CSUR 2021`,`log compression`,`log parsing`,`log mining` | [Paper](_Papers/LogAnalysis/A%20Survey%20on%20Automated%20Log%20Analysis%20for%20Reliability%20Engineering.pdf) |
+| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection Without Log Parsing              | `ASE 2021`,`Log Parsing`,`Deep Learning`                 | [Paper](_Papers/LogAnalysis/Log-based%20Anomaly%20Detection%20Without%20Log%20Parsing.pdf) |
+| <ul><li>[ ] </li></ul> | MoniLog: An Automated Log-Based Anomaly Detection System for Cloud Computing Infrastructures | `ICDE 2021`,`Log Instability`,` Log Parsing`             | [Paper](_Papers/LogAnalysis/MoniLog-%20An%20Automated%20Log-Based%20Anomaly%20Detection%20System%20for%20Cloud%20Computing%20Infrastructures.pdf) |
+| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection with Deep Learning: How Far Are We? | `ICSE 2022`,`Log Parsing`,`Deep Learning`                | [Paper](_Papers/LogAnalysis/Log-based%20Anomaly%20Detection%20with%20Deep%20Learning-%20How%20Far%20Are%20We.pdf) |
 
 
 
@@ -48,17 +48,14 @@ Unsupervised Anomaly Detection on Microservice Traces through Graph VAE, WWW 202
 
 # 5. 故障分类
 
-Fingerprinting the Datacenter: Automated Classification of Performance Crises, EuroSys 2010
-
-Taking the Blame Game out of Data Centers Operations with NetPoirot, SIGCOMM 2016
-
-Online Diagnosis of Performance Variation in HPC Systems Using Machine Learning, TPDS 2019
-
-Proctor: A Semi-Supervised Performance Anomaly Diagnosis Framework for Production HPC Systems, HPCC 2021
-
-Identifying Root-Cause Metrics for Incident Diagnosis in Online Service Systems, ISSRE 2021
-
-Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases, VLDB 2020
+|                        | Papers                                                       | Tags           | Links                                                        |
+| ---------------------- | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ |
+| <ul><li>[ ] </li></ul> | Fingerprinting the Datacenter: Automated Classification of Performance Crises | `EuroSys 2010` | [Paper](_Papers/Diagnosis/Fingerprinting%20the%20Datacenter-%20Automated%20Classification%20of%20Performance%20Crises.pdf) |
+| <ul><li>[ ] </li></ul> | Taking the Blame Game out of Data Centers Operations with NetPoirot | `SIGCOMM 2016` | [Paper](_Papers/Diagnosis/Taking%20the%20Blame%20Game%20out%20of%20Data%20Centers%20Operations%20with%20NetPoirot.pdf) |
+| <ul><li>[ ] </li></ul> | Online Diagnosis of Performance Variation in HPC Systems Using Machine Learning | `TPDS 2019`    | [Paper](_Papers/Diagnosis/Online%20Diagnosis%20of%20Performance%20Variation%20in%20HPC%20Systems%20Using%20Machine%20Learning.pdf) |
+| <ul><li>[ ] </li></ul> | Proctor: A Semi-Supervised Performance Anomaly Diagnosis Framework for Production HPC Systems | `HPCC 2021`    | [Paper](_Papers/Diagnosis/Proctor-%20A%20Semi-Supervised%20Performance%20Anomaly%20Diagnosis%20Framework%20for%20Production%20HPC%20Systems.pdf) |
+| <ul><li>[ ] </li></ul> | Identifying Root-Cause Metrics for Incident Diagnosis in Online Service Systems | `ISSRE 2021`   | [Paper](_Papers/Diagnosis/Identifying%20Root-Cause%20Metrics%20for%20Incident%20Diagnosis%20in%20Online%20Service%20Systems.pdf) |
+| <ul><li>[ ] </li></ul> | Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases | `VLDB 2020`    | [Paper](_Papers/Diagnosis/Diagnosing%20Root%20Causes%20of%20Intermittent%20Slow%20Queries%20in%20Cloud%20Databases.pdf) |
 
 
 
