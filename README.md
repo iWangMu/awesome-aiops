@@ -1,11 +1,11 @@
 # 1. 单指标异常检测
 
-| #    | Papers                                                       | Tags                                                       | Links                                                        |
-| ---- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| 1    | <ul><li>[ ] Cross-dataset Time Series Anomaly Detection for Cloud Systems</li></ul> | `ATC2019`                                                  | [Paper](_Papers/AnomalyDetection/Cross-dataset%20Time%20Series%20Anomaly%20Detection%20for%20Cloud%20Systems.pdf) |
-| 2    | Time-Series Anomaly Detection Service at Microsoft           | `KDD 2019`, `time-series`, `Spectral Residual`             | [Paper](_Papers/AnomalyDetection/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf) |
-| 3    | Robust KPI Anomaly Detection for Large-Scale Software Services with Partial Labels | `ISSRE 2021`, `PU learning`, `active learning`             | [Paper](_Papers/AnomalyDetection/Robust%20KPI%20Anomaly%20Detection%20for%20Large-Scale%20Software%20Services%20with%20Partial%20Labels.pdf) |
-| 4    | Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services | `JSAC 2022`, `transfer learning`, `time series clustering` | [Paper](_Papers/AnomalyDetection/Efficient%20KPI%20Anomaly%20Detection%20Through%20Transfer%20Learning%20for%20Large-Scale%20Web%20Services.pdf) |
+| #                      | Papers                                                       | Tags                                                       | Links                                                        |
+| ---------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| <ul><li>[ ] </li></ul> | Cross-dataset Time Series Anomaly Detection for Cloud Systems | `ATC2019`                                                  | [Paper](_Papers/AnomalyDetection/Cross-dataset%20Time%20Series%20Anomaly%20Detection%20for%20Cloud%20Systems.pdf) |
+| 2                      | Time-Series Anomaly Detection Service at Microsoft           | `KDD 2019`, `time-series`, `Spectral Residual`             | [Paper](_Papers/AnomalyDetection/Time-Series%20Anomaly%20Detection%20Service%20at%20Microsoft.pdf) |
+| 3                      | Robust KPI Anomaly Detection for Large-Scale Software Services with Partial Labels | `ISSRE 2021`, `PU learning`, `active learning`             | [Paper](_Papers/AnomalyDetection/Robust%20KPI%20Anomaly%20Detection%20for%20Large-Scale%20Software%20Services%20with%20Partial%20Labels.pdf) |
+| 4                      | Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services | `JSAC 2022`, `transfer learning`, `time series clustering` | [Paper](_Papers/AnomalyDetection/Efficient%20KPI%20Anomaly%20Detection%20Through%20Transfer%20Learning%20for%20Large-Scale%20Web%20Services.pdf) |
 
 
 
