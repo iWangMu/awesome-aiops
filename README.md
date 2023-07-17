@@ -20,19 +20,19 @@
 
 
 
-# 3.日志分析与异常检测
+# 3. 日志分析与异常检测
 
 |                        | Papers                                                       | Tags                                                         | Links                                                        |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <ul><li>[ ] </li></ul> | LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs | ` IJCAI 2018`                                                | [Paper](_Papers/AnomalyDetection/LogAnomaly-%20Unsupervised%20Detection%20of%20Sequential%20and%20Quantitative%20Anomalies%20in%20Unstructured%20Logs.pdf) |
-| <ul><li>[ ] </li></ul> | A Survey on Automated Log Analysis for Reliability Engineering | `CSUR 2021`,`log analysis`,`log compression`,`log parsing`,`log mining` | [Paper](_Papers/AnomalyDetection/A%20Survey%20on%20Automated%20Log%20Analysis%20for%20Reliability%20Engineering.pdf) |
-| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection Without Log Parsing              | `ASE 2021`,`Log Analysis`,`Log Parsing`,`Deep Learning`      | [Paper](_Papers/AnomalyDetection/Log-based%20Anomaly%20Detection%20Without%20Log%20Parsing.pdf) |
-| <ul><li>[ ] </li></ul> | MoniLog: An Automated Log-Based Anomaly Detection System for Cloud Computing Infrastructures | `ICDE 2021`, `Log Analysis`,`Log Instability`,` Log Parsing` | [Paper](_Papers/AnomalyDetection/MoniLog-%20An%20Automated%20Log-Based%20Anomaly%20Detection%20System%20for%20Cloud%20Computing%20Infrastructures.pdf) |
-| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection with Deep Learning: How Far Are We? | `ICSE 2022`,`Log Analysis`,`Log Parsing`,`Deep Learning`     | [Paper](_Papers/AnomalyDetection/Log-based%20Anomaly%20Detection%20with%20Deep%20Learning-%20How%20Far%20Are%20We.pdf) |
+| <ul><li>[ ] </li></ul> | LogAnomaly: Unsupervised Detection of Sequential and Quantitative Anomalies in Unstructured Logs | `IJCAI 2018`                                                 | [Paper](_Papers/LogAnalysis/LogAnomaly-%20Unsupervised%20Detection%20of%20Sequential%20and%20Quantitative%20Anomalies%20in%20Unstructured%20Logs.pdf) |
+| <ul><li>[ ] </li></ul> | A Survey on Automated Log Analysis for Reliability Engineering | `CSUR 2021`,`log analysis`,`log compression`,`log parsing`,`log mining` | [Paper](_Papers/LogAnalysis/A%20Survey%20on%20Automated%20Log%20Analysis%20for%20Reliability%20Engineering.pdf) |
+| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection Without Log Parsing              | `ASE 2021`,`Log Analysis`,`Log Parsing`,`Deep Learning`      | [Paper](_Papers/LogAnalysis/Log-based%20Anomaly%20Detection%20Without%20Log%20Parsing.pdf) |
+| <ul><li>[ ] </li></ul> | MoniLog: An Automated Log-Based Anomaly Detection System for Cloud Computing Infrastructures | `ICDE 2021`, `Log Analysis`,`Log Instability`,` Log Parsing` | [Paper](_Papers/LogAnalysis/MoniLog-%20An%20Automated%20Log-Based%20Anomaly%20Detection%20System%20for%20Cloud%20Computing%20Infrastructures.pdf) |
+| <ul><li>[ ] </li></ul> | Log-based Anomaly Detection with Deep Learning: How Far Are We? | `ICSE 2022`,`Log Analysis`,`Log Parsing`,`Deep Learning`     | [Paper](_Papers/LogAnalysis/Log-based%20Anomaly%20Detection%20with%20Deep%20Learning-%20How%20Far%20Are%20We.pdf) |
 
 
 
-# 4.调用链分析与异常检测
+# 4. 调用链分析与异常检测
 
 Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs, ESES/FSE 2019
 
@@ -46,7 +46,7 @@ Unsupervised Anomaly Detection on Microservice Traces through Graph VAE, WWW 202
 
 
 
-### 故障分类
+# 5. 故障分类
 
 Fingerprinting the Datacenter: Automated Classification of Performance Crises, EuroSys 2010
 
@@ -62,19 +62,13 @@ Diagnosing Root Causes of Intermittent Slow Queries in Cloud Databases, VLDB 202
 
 
 
-### 根因定位
+# 6. 根因定位
 
-AutoMAP: Diagnose Your Microservice-based Web Applications Automatically, WWW 2020
-
-MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments, WWW 2021
-
-MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems, ICSE 2021
-
-Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems, ECSE 2022
-
-Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data, ICSE 2023
-
-Robust Failure Diagnosis of Microservice System through Multimodal Data, TSE 202
-
-
-
+|                        | Papers                                                       | Tags                                                         | Links                                                        |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <ul><li>[ ] </li></ul> | AutoMAP: Diagnose Your Microservice-based Web Applications Automatically | `WWW 2020`,`anomaly diagnosis`                               | [Paper](_Papers/RCA/AutoMAP-%20Diagnose%20Your%20Microservice-based%20Web%20Applications%20Automatically.pdf) |
+| <ul><li>[ ] </li></ul> | MicroRank: End-to-End Latency Issue Localization with Extended Spectrum Analysis in Microservice Environments | `WWW 2021`,`PageRank`,`spectrum analysis`                    | [Paper](_Papers/RCA/MicroRank-%20End-to-End%20Latency%20Issue%20Localization%20with%20Extended%20Spectrum%20Analysis%20in%20Microservice%20Environments.pdf) |
+| <ul><li>[ ] </li></ul> | MicroHECL: High-Efficient Root Cause Localization in Large-Scale Microservice Systems | `ICSE 2021`,`root cause localization`,`service call graph`   | [Paper](_Papers/RCA/MicroHECL-%20High-Efficient%20Root%20Cause%20Localization%20in%20Large-Scale%20Microservice%20Systems.pdf) |
+| <ul><li>[ ] </li></ul> | Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems | `ECSE 2022`,`Fault Localization` ,`Online Service Systems`,`Recurring Failures` | [Paper](_Papers/RCA/Actionable%20and%20Interpretable%20Fault%20Localization%20for%20Recurring%20Failures%20in%20Online%20Service%20Systems.pdf) |
+| <ul><li>[ ] </li></ul> | Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data | `ICSE 2023`,`root cause localization`                        | [Paper](_Papers/RCA/Eadro-%20An%20End-to-End%20Troubleshooting%20Framework%20for%20Microservices%20on%20Multi-source%20Data.pdf) |
+| <ul><li>[ ] </li></ul> | Robust Failure Diagnosis of Microservice System through Multimodal Data | `TSE2023`,`Failure diagnosis`,`Multimodal data`,`Graph neural network` | [Paper](_Papers/RCA/Robust%20Failure%20Diagnosis%20of%20Microservice%20System%20through%20Multimodal%20Data.pdf) |
