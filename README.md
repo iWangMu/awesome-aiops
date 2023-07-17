@@ -1,6 +1,6 @@
 |      |                                                              |                                  |                                                              |
 | ---- | ------------------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
-|      | Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services | ` AnomalyDetection`, `JSAC 2022` | [Paper](_Papers/AnomalyDetection/Efficient&nbsp;KPI&nbsp;Anomaly&nbsp;Detection&nbsp;Through&nbsp;Transfer&nbsp;Learning&nbsp;for&nbsp;Large-Scale&nbsp;Web&nbsp;Services.pdf) |
+|      | Efficient KPI Anomaly Detection Through Transfer Learning for Large-Scale Web Services | ` AnomalyDetection`, `JSAC 2022` | [Paper](_Papers/AnomalyDetection/Efficient%20KPI%20Anomaly%20Detection%20Through%20Transfer%20Learning%20for%20Large-Scale%20Web%20Services.pdf) |
 |      |                                                              |                                  |                                                              |
 |      |                                                              |                                  |                                                              |
 |      |                                                              |                                  |                                                              |
@@ -10,7 +10,7 @@
 
 
 
-./_Papers/AnomalyDetection/Efficient&nbsp;KPI&nbsp;Anomaly&nbsp;Detection&nbsp;Through&nbsp;Transfer&nbsp;Learning&nbsp;for&nbsp;Large-Scale&nbsp;Web&nbsp;Services.pdf
+./_Papers/AnomalyDetection/Efficient%20KPI%20Anomaly%20Detection%20Through%20Transfer%20Learning%20for%20Large-Scale%20Web%20Services.pdf
 
 ### 单指标异常检测
 
